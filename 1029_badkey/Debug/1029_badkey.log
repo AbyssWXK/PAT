@@ -1,0 +1,4 @@
+﻿  1029_badkey.cpp
+e:\c++\pta\1029_badkey\1029_badkey.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  1029_badkey.vcxproj -> E:\C++\pta\1029_badkey\Debug\1029_badkey.exe
+  1029_badkey.vcxproj -> E:\C++\pta\1029_badkey\Debug\1029_badkey.pdb (Partial PDB)

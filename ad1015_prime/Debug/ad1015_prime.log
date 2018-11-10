@@ -1,0 +1,5 @@
+﻿  ad1015_prime.cpp
+e:\c++\pta\ad1015_prime\ad1015_prime.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\ad1015_prime\ad1015_prime.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  ad1015_prime.vcxproj -> E:\C++\pta\ad1015_prime\Debug\ad1015_prime.exe
+  ad1015_prime.vcxproj -> E:\C++\pta\ad1015_prime\Debug\ad1015_prime.pdb (Partial PDB)

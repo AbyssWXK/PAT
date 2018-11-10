@@ -1,0 +1,9 @@
+﻿  ad1005_spell_it_right.cpp
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(13): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(15): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(17): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(19): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(35): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+e:\c++\pta\ad1005_spell_it_right\ad1005_spell_it_right.cpp(39): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  ad1005_spell_it_right.vcxproj -> E:\C++\pta\ad1005_spell_it_right\Debug\ad1005_spell_it_right.exe
+  ad1005_spell_it_right.vcxproj -> E:\C++\pta\ad1005_spell_it_right\Debug\ad1005_spell_it_right.pdb (Partial PDB)

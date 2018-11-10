@@ -1,0 +1,7 @@
+﻿  1022_Djin.cpp
+e:\c++\pta\1022_djin\1022_djin.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1022_djin\1022_djin.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1022_djin\1022_djin.cpp(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++\pta\1022_djin\1022_djin.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  1022_Djin.vcxproj -> E:\C++\pta\1022_Djin\Debug\1022_Djin.exe
+  1022_Djin.vcxproj -> E:\C++\pta\1022_Djin\Debug\1022_Djin.pdb (Partial PDB)

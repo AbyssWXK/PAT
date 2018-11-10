@@ -1,0 +1,5 @@
+﻿  1024_Scount.cpp
+e:\c++\pta\1024_scount\1024_scount.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1024_scount\1024_scount.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+  1024_Scount.vcxproj -> E:\C++\pta\Debug\1024_Scount.exe
+  1024_Scount.vcxproj -> E:\C++\pta\Debug\1024_Scount.pdb (Partial PDB)

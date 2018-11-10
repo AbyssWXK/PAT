@@ -1,0 +1,4 @@
+﻿  1020_ma.cpp
+e:\c++\pta\1020_ma\1020_ma.cpp(44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  1020_ma.vcxproj -> E:\C++\pta\1020_ma\Debug\1020_ma.exe
+  1020_ma.vcxproj -> E:\C++\pta\1020_ma\Debug\1020_ma.pdb (Partial PDB)

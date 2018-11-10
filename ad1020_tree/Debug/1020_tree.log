@@ -1,0 +1,4 @@
+﻿  1020_tree.cpp
+e:\c++\pta\1020_tree\1020_tree.cpp(33): warning C4101: “temp”: 未引用的局部变量
+  1020_tree.vcxproj -> E:\C++\pta\Debug\1020_tree.exe
+  1020_tree.vcxproj -> E:\C++\pta\Debug\1020_tree.pdb (Partial PDB)

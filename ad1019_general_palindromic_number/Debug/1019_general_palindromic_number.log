@@ -1,0 +1,5 @@
+﻿  1019_general_palindromic_number.cpp
+e:\c++\pta\1019_general_palindromic_number\1019_general_palindromic_number.cpp(20): warning C4244: “参数”: 从“__int64”转换到“const long”，可能丢失数据
+e:\c++\pta\1019_general_palindromic_number\1019_general_palindromic_number.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  1019_general_palindromic_number.vcxproj -> E:\C++\pta\Debug\1019_general_palindromic_number.exe
+  1019_general_palindromic_number.vcxproj -> E:\C++\pta\Debug\1019_general_palindromic_number.pdb (Partial PDB)

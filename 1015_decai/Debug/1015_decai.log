@@ -1,0 +1,4 @@
+﻿  1015_decai.cpp
+e:\c++\pta\1015_decai\1015_decai.cpp(20): warning C4715: “append”: 不是所有的控件路径都返回值
+  1015_decai.vcxproj -> E:\C++\pta\1015_decai\Debug\1015_decai.exe
+  1015_decai.vcxproj -> E:\C++\pta\1015_decai\Debug\1015_decai.pdb (Partial PDB)

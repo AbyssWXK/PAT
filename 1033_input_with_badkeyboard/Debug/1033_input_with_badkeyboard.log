@@ -1,0 +1,5 @@
+﻿  1033_input_with_badkeyboard.cpp
+e:\c++\pta\1033_input_with_badkeyboard\1033_input_with_badkeyboard.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1033_input_with_badkeyboard\1033_input_with_badkeyboard.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  1033_input_with_badkeyboard.vcxproj -> E:\C++\pta\Debug\1033_input_with_badkeyboard.exe
+  1033_input_with_badkeyboard.vcxproj -> E:\C++\pta\Debug\1033_input_with_badkeyboard.pdb (Partial PDB)

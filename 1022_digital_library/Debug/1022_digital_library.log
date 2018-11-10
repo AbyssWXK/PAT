@@ -1,0 +1,7 @@
+﻿  1022_digital_library.cpp
+e:\c++\pta\1022_digital_library\1022_digital_library.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1022_digital_library\1022_digital_library.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1022_digital_library\1022_digital_library.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1022_digital_library\1022_digital_library.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  1022_digital_library.vcxproj -> E:\C++\pta\1022_digital_library\Debug\1022_digital_library.exe
+  1022_digital_library.vcxproj -> E:\C++\pta\1022_digital_library\Debug\1022_digital_library.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  1025_link.cpp
+e:\c++\pta\1025_link\1025_link.cpp(106): warning C4715: “findads”: 不是所有的控件路径都返回值
+  1025_link.vcxproj -> E:\C++\pta\Debug\1025_link.exe
+  1025_link.vcxproj -> E:\C++\pta\Debug\1025_link.pdb (Partial PDB)

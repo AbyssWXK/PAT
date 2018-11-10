@@ -1,0 +1,6 @@
+﻿  ad1010_Radix.cpp
+e:\c++\pta\ad1010_radix\ad1010_radix.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\ad1010_radix\ad1010_radix.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\ad1010_radix\ad1010_radix.cpp(53): warning C4244: “参数”: 从“unsigned __int64”转换到“const char”，可能丢失数据
+  ad1010_Radix.vcxproj -> E:\C++\pta\ad1010_Radix\Debug\ad1010_Radix.exe
+  ad1010_Radix.vcxproj -> E:\C++\pta\ad1010_Radix\Debug\ad1010_Radix.pdb (Partial PDB)

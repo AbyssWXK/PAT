@@ -1,0 +1,6 @@
+﻿  1023_ have_fun_with_number.cpp
+e:\c++\pta\1023_ have_fun_with_number\1023_ have_fun_with_number.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1023_ have_fun_with_number\1023_ have_fun_with_number.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\pta\1023_ have_fun_with_number\1023_ have_fun_with_number.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+  1023_ have_fun_with_number.vcxproj -> E:\C++\pta\Debug\1023_ have_fun_with_number.exe
+  1023_ have_fun_with_number.vcxproj -> E:\C++\pta\Debug\1023_ have_fun_with_number.pdb (Partial PDB)
